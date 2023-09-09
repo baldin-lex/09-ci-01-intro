@@ -55,6 +55,6 @@
 
 6. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
 
-[bug_worckflow](XML/bug_worckflow.xml)
+[bug_worckflow](XML/bug_workflow.xml)
 
 [task_worckflow](XML/task_worckflow.xml)
